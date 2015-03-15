@@ -24,7 +24,7 @@ msgstr ""
 #, php-format
 msgid "One Comment on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
-msgstr[0] "《%2$s》有 1 个评论"
+msgstr[0] "《%2$s》有 1 个评论哈哈哈哈"
 msgstr[1] "《%2$s》有 %1$s 个评论"
 
 # @ layerswp
